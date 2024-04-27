@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahmood Hashemi from Herat, Afghanistan
-- 👀 I’m interested in Mobile development 
+- 👀 I’m interested in Mobile and Web development 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on with who wants help in thier projects
 - 📫 How to reach me: @shahmahmood

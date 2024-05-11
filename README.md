@@ -1,10 +1,72 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shah+Mahmood....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+
+![](https://komarev.com/ghpvc/?username=MahmoodHashem&color=brightgreen)
+
+
 - 👋 Hi, I’m Mahmood Hashemi from Herat, Afghanistan
 - 👀 I’m interested in Mobile and Web development 
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on with who wants help in thier projects
-- 📫 How to reach me: @shahmahmood
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### Connect With Me:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shah-mahmood-hashemi-55172a276/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mahmood18999963)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmahmoodham143@gmail.com)
+
+
+### Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
+![Algorithm](https://img.shields.io/badge/Algorithm-FFA116?style=flat-square&logo=algorithm&logoColor=black)
+![Data Structure](https://img.shields.io/badge/Data_Structure-FFA116?style=flat-square&logo=data-structure&logoColor=black)
+
+
+
+### My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MahmoodHashem&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Mahmood Hashemi's Github status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodHashem&theme=algolia" alt="said7388" />
+</p>
+
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodHashem&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
+
+### Top Repositories
+
+
+<a href="hhttps://github.com/MahmoodHashem/Mentor-Challanges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Mentor-Challanges&theme=algolia" />
+</a>
+<a href="https://github.com/MahmoodHashem/JavaScript-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=JavaScript-Projects&theme=algolia" />
+</a>
+<a href="https://github.com/MahmoodHashem/todo_getx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=todo_getx&theme=algolia" />
+</a>
+
+
 
 <!---
 MahmoodHashem/MahmoodHashem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

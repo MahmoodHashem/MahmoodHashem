@@ -20,6 +20,13 @@
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shmahmoodham143@gmail.com)
 
 
+### My Coding Adventures
+
+[![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/MahmoodHashem)
+[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/MahmoodHashem)
+[![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/MahmoodHashem)
+
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,6 +69,7 @@
 <a href="https://github.com/MahmoodHashem/JavaScript-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=JavaScript-Projects&theme=algolia" />
 </a>
+
 <a href="https://github.com/MahmoodHashem/todo_getx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=todo_getx&theme=algolia" />
 </a>

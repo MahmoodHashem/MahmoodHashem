@@ -69,9 +69,11 @@
 <a href="https://github.com/MahmoodHashem/JavaScript-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=JavaScript-Projects&theme=algolia" />
 </a>
-
 <a href="https://github.com/MahmoodHashem/todo_getx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=todo_getx&theme=algolia" />
+</a>
+<a href="https://github.com/MahmoodHashem/The_Odin_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=The_Odin_Projects&theme=algolia" />
 </a>
 
 

@@ -69,11 +69,17 @@
 <a href="https://github.com/MahmoodHashem/JavaScript-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=JavaScript-Projects&theme=algolia" />
 </a>
-<a href="https://github.com/MahmoodHashem/todo_getx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=todo_getx&theme=algolia" />
+<a href="https://github.com/MahmoodHashem/Leetcode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Leetcode&theme=algolia" />
 </a>
 <a href="https://github.com/MahmoodHashem/The_Odin_Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=The_Odin_Projects&theme=algolia" />
+</a>
+<a href="https://github.com/MahmoodHashem/100devs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=100devs&theme=algolia" />
+</a>
+<a href="https://github.com/MahmoodHashem/Exercism">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoodHashem&repo=Exercism&theme=algolia" />
 </a>
 
 

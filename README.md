@@ -87,6 +87,9 @@
 </a>
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!---
 MahmoodHashem/MahmoodHashem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -26,8 +26,9 @@
 
 ### My Coding Adventures
 
+[![Codewars](https://www.codewars.com/users/MahmoodHashem/badges/large)](https://www.codewars.com/users/MahmoodHashem)
+
 [![Frontend Mentor Badge](https://img.shields.io/badge/Frontend_Mentor-141620?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/MahmoodHashem)
-[![Codewars Badge](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/MahmoodHashem)
 [![Exercism Badge](https://img.shields.io/badge/Exercism-000000?style=for-the-badge&logo=exercism&logoColor=white)](https://exercism.org/profiles/MahmoodHashem)
 
 
